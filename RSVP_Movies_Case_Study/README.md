@@ -1,19 +1,18 @@
 
-# RSVP Movies Global Project Data Analysis
+# RSVP Movies Project Data Analysis
 
 ## Project Overview
 
-### RSVP Movies is an Indian film production company that has produced many super-hit movies. Typically, they have released movies for the Indian audience, but for their next project, they are planning to release a movie for the global audience in 2022. To support this initiative, we analyzed data from the past three years to derive meaningful insights that can guide their new project.
+#### RSVP Movies is an Indian film production company that has produced many super-hit movies. Typically, they have released movies for the Indian audience, but for their next project, they are planning to release a movie for the global audience in 2022. To support this initiative, we analyzed data from the past three years to derive meaningful insights that can guide their new project.
 
-Team Members
-Rita Kumari
+### Team Members
+* Rita Kumari
+* Ronit Sexana
+* Rakesh Kumar Sahoo
 
-Ronit Sexana
+## Objectives
 
-Rakesh Kumar Sahoo
-
-Objectives
-We approached this project with the following mutually agreed objectives:
+#### We approached this project with the following mutually agreed objectives:
 
 Identification of Business Questions: Define the key business questions to be addressed through data analysis.
 
