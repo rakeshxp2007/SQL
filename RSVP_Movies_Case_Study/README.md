@@ -1,7 +1,5 @@
 
-
-![Screenshot 2024-11-29 103128](https://github.com/user-attachments/assets/733a8d72-48e8-4ba0-915d-64bf4ad6851c)
-
+<img width="153" alt="image" src="https://github.com/user-attachments/assets/5a3e487e-6267-466f-90c6-0cb1314da9e2">
 
 # RSVP Movies Project Data Analysis
 
@@ -23,6 +21,12 @@
 * Query Optimization: Optimize SQL queries for better memory utilization and reduced execution time.
 * Adherence to Best Practices: Follow industry best practices in SQL while formulating queries.
 * Insight Linkages: Identify inter-linkages between data-backed insights to provide relevant and actionable recommendations for the business question.
+
+## Dataset
+
+### ER-Model
+
+![Screenshot 2024-11-29 103128](https://github.com/user-attachments/assets/733a8d72-48e8-4ba0-915d-64bf4ad6851c)
 
 ## Highlights
 
