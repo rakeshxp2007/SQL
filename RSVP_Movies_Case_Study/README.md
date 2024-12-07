@@ -1,4 +1,8 @@
 
+
+![Screenshot 2024-11-29 103128](https://github.com/user-attachments/assets/733a8d72-48e8-4ba0-915d-64bf4ad6851c)
+
+
 # RSVP Movies Project Data Analysis
 
 ## Project Overview
